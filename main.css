@@ -1,0 +1,20 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+#timer {
+  font-size: 50px;
+}
+
+.stopwatch {
+  padding: 50px 20px;
+}
+
+button {
+  font-weight: bold;
+  padding: 8px 14px;
+}
+
+.inactive {
+  opacity: 0.6;
+}
